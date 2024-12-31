@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\bin\Debug\net6.0\BookLibraryMember.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\bin\Debug\net6.0\BookLibraryMember.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\bin\Debug\net6.0\BookLibraryMember.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\bin\Debug\net6.0\BookLibraryMember.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\bin\Debug\net6.0\BookLibraryMember.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\refint\BookLibraryMember.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\BookLibraryMember.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\BookLibraryMember\obj\Debug\net6.0\ref\BookLibraryMember.dll

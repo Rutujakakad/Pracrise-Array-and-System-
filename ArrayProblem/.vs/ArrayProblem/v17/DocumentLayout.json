@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0F42AA-4F49-40CE-BE19-CC79CC5AF913}|CarSpeed\\CarSpeed.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\carspeed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0F42AA-4F49-40CE-BE19-CC79CC5AF913}|CarSpeed\\CarSpeed.csproj|solutionrelative:carspeed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\booklibrarymember\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|solutionrelative:booklibrarymember\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\booklibrarymember\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|solutionrelative:booklibrarymember\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\booklibrarymember\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|solutionrelative:booklibrarymember\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260D44BA-8F75-40E3-A06D-3D71592AD845}|PersonDetails\\PersonDetails.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\persondetails\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260D44BA-8F75-40E3-A06D-3D71592AD845}|PersonDetails\\PersonDetails.csproj|solutionrelative:persondetails\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C9BA6A-0224-46EF-9583-21F3B8739A4E}|ArrayProblem\\ArrayProblem.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\arrayproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C9BA6A-0224-46EF-9583-21F3B8739A4E}|ArrayProblem\\ArrayProblem.csproj|solutionrelative:arrayproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\booklibrarymember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|solutionrelative:booklibrarymember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\booklibrarymember\\booklibrarymember.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21874C48-F296-45DB-AFA5-256E0828CBAC}|BookLibraryMember\\BookLibraryMember.csproj|solutionrelative:booklibrarymember\\booklibrarymember.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0096DA29-A854-4037-A615-26903860F90A}|ProductID\\ProductID.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\productid\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0096DA29-A854-4037-A615-26903860F90A}|ProductID\\ProductID.csproj|solutionrelative:productid\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0096DA29-A854-4037-A615-26903860F90A}|ProductID\\ProductID.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\productid\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0096DA29-A854-4037-A615-26903860F90A}|ProductID\\ProductID.csproj|solutionrelative:productid\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0096DA29-A854-4037-A615-26903860F90A}|ProductID\\ProductID.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\productid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0096DA29-A854-4037-A615-26903860F90A}|ProductID\\ProductID.csproj|solutionrelative:productid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF257BF8-43F7-4CC4-A3C0-FF4E48B20FE9}|Employee\\Employee.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\arrayproblems\\arrayproblem\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF257BF8-43F7-4CC4-A3C0-FF4E48B20FE9}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookLibraryMember",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\BookLibraryMember.csproj",
+              "RelativeDocumentMoniker": "BookLibraryMember\\BookLibraryMember.csproj",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\BookLibraryMember.csproj",
+              "RelativeToolTip": "BookLibraryMember\\BookLibraryMember.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T10:01:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ProductID\\Inventory.cs",
+              "RelativeDocumentMoniker": "ProductID\\Inventory.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ProductID\\Inventory.cs",
+              "RelativeToolTip": "ProductID\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:44:42.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ProductID\\Product.cs",
+              "RelativeDocumentMoniker": "ProductID\\Product.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ProductID\\Product.cs",
+              "RelativeToolTip": "ProductID\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:38:59.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Member.cs",
+              "RelativeDocumentMoniker": "BookLibraryMember\\Member.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Member.cs",
+              "RelativeToolTip": "BookLibraryMember\\Member.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:23:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Library.cs",
+              "RelativeDocumentMoniker": "BookLibraryMember\\Library.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Library.cs",
+              "RelativeToolTip": "BookLibraryMember\\Library.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:23:40.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Book.cs",
+              "RelativeDocumentMoniker": "BookLibraryMember\\Book.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Book.cs",
+              "RelativeToolTip": "BookLibraryMember\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:23:23.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Program.cs",
+              "RelativeDocumentMoniker": "BookLibraryMember\\Program.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\BookLibraryMember\\Program.cs",
+              "RelativeToolTip": "BookLibraryMember\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:22:16.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ArrayProblem\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayProblem\\Program.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ArrayProblem\\Program.cs",
+              "RelativeToolTip": "ArrayProblem\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:38:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\PersonDetails\\Person.cs",
+              "RelativeDocumentMoniker": "PersonDetails\\Person.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\PersonDetails\\Person.cs",
+              "RelativeToolTip": "PersonDetails\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:07:35.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\CarSpeed\\Program.cs",
+              "RelativeDocumentMoniker": "CarSpeed\\Program.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\CarSpeed\\Program.cs",
+              "RelativeToolTip": "CarSpeed\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:57:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ProductID\\Program.cs",
+              "RelativeDocumentMoniker": "ProductID\\Program.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\ProductID\\Program.cs",
+              "RelativeToolTip": "ProductID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:37:36.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\ArrayProblems\\ArrayProblem\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wDQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:44:52.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

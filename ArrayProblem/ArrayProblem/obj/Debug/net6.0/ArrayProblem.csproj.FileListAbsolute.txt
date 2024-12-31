@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\bin\Debug\net6.0\ArrayProblem.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\bin\Debug\net6.0\ArrayProblem.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\bin\Debug\net6.0\ArrayProblem.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\bin\Debug\net6.0\ArrayProblem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\bin\Debug\net6.0\ArrayProblem.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\refint\ArrayProblem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ArrayProblem.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\ArrayProblems\ArrayProblem\ArrayProblem\obj\Debug\net6.0\ref\ArrayProblem.dll
